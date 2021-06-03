@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A vvord to the people of the world, who hates the light, to be witnessed by the light in them all; wherein is shewed unto them, what the light is, which is the condemnation of the world with its deeds, and what the spirit of truth is, and what it leads them unto, who are led by it; and what the spirit of errour is, and what it leads them into, who are lead by it; and also they are here exhorted to repent whiles they have the light, to believe and walk in the light, least darkness come upon them, and they into it be cast, where there shall be weeping and gnashing of teeth. Also a few queries to such professors as stumbles at the light, the word, the kingdom, and spirit of God within, and tell people that none can be free from sin in this life, and yet say that they own the scriptures.</title>
+            <author>Fox, George, d. 1661.</author>
+         </titleStmt>
+         <extent>Approx. 31KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B23186</idno><idno type="EEBO-CITATION">99889744</idno>
+  <idno type="VID">193511</idno>
+  <idno type="EEBO-PROQUEST">2240906916</idno>
+  
+            <idno type="OCLC"> 12247315</idno>
+            <idno type="STC">Wing F2020</idno>
+            <idno type="STC">Interim Tract Supplement Guide 855.f.3[19]</idno>
+            <idno type="STC">ESTC R31714</idno>
+            <idno type="PROQUEST">ocm99889744</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99889744e"/>
+            <note>(EEBO-TCP ; phase 2, no. B23186)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 193511)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; B9:1[21])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A vvord to the people of the world, who hates the light, to be witnessed by the light in them all; wherein is shewed unto them, what the light is, which is the condemnation of the world with its deeds, and what the spirit of truth is, and what it leads them unto, who are led by it; and what the spirit of errour is, and what it leads them into, who are lead by it; and also they are here exhorted to repent whiles they have the light, to believe and walk in the light, least darkness come upon them, and they into it be cast, where there shall be weeping and gnashing of teeth. Also a few queries to such professors as stumbles at the light, the word, the kingdom, and spirit of God within, and tell people that none can be free from sin in this life, and yet say that they own the scriptures.</title>
+                  <author>Fox, George, d. 1661.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Thomas Simmons, at the Bull and Mouth near Aldersgate,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1659]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Signed on p. 8: George Fox, the younger in the truth.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Society of Friends --  Apologetic works --  Early works to 1800.</term>
+               <term type="topical_term">Inner Light --  Early works to 1800.</term>
+               <term type="topical_term">Truth --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-01 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Simon Charles </label>Sampled and proofread </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Simon Charles</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:193511:1"/>
+            <head>A VVORD To the people of the world, who hates the light, to be witnessed by the light in them all; wherein is shewed unto them, what the light is, which is the Condemnation of the world with its deeds, and what the Spirit of truth is, and what it leads them into, who are led by it; and what the spirit of errour is, and what it leads them into, who are lead by it; and also they are here exhorted to repent whiles they have the light, to believe and walk in the light, least darkness come upon them, and they into it be cast, where there shall be weeping and gnashing of teeth. Also a few Queries to such professors as stumbles at the Light, the Word, the Kingdom, and Spirit of God within, and tell people that none can be free from sin in this life, and yet say that they own the Scriptures.</head>
+            <div type="part">
+               <p>LIght is come into the World, and the World hates it, <hi>John</hi> 8.12. and the whole World lieth in wickedness, 1 <hi>John</hi> 5.19. and this is the Condemnation of the World, that light is come into the World, and men love the darkness rather then the light, because their deeds are evil (saith Christ) <hi>John</hi> 3.19,20. and every one that doth e<g ref="char:EOLhyphen"/>vil hateth the light, neither cometh he to the light least his deeds should be reproved; for all things that are reproved are made manifest by the light, for whatsoever doth make manifest, the same is light, <hi>Eph.</hi> 5.13. and Christ Jesus he is the true light, wch lighteth every man that cometh into the World, <hi>John</hi> 1.9. Drunkard, thou hast a light given thee which comes from Christ, and that is the light which lets thee see that thou should not be drunk; so here thou hast learned thy Condemnation (which is the light) swearer, and lyar, and fighter, and quarreler, thou hast a light given thee which comes from Christ (who saith, swear not at all) and with this light, thou seest thou shouldst nor swear, nor lye, nor fight, nor quarrel, for the light in thee wit<g ref="char:EOLhyphen"/>nesseth against these things; so here thou hast learned thy condemnation (the light) scoffer, and scorner, and mocker, and rayler, and cursed speaker, and foolish jeaster, and vain talker, and cuzener, and cheater, the light that shines in thy Conscience, though thou cannot comprehend it (<hi>John</hi> 1.5.) because thou art darkness, it is pure and eternal, and never consented unto evil, but stood and stands a witness for God, against all evil; (Mark) this light, this pure witness oftentimes hath appeared and doth appear unto thee, &amp; in thee, and lets thee plainly see that thou shouldst not act any of these evils before-mentioned, and it often checks and reproves in secret, when thou dost so act; so here thou hast learned what Condemns thee (which is the light) <hi>Eph.</hi> 5.5,23. proud one, wanton one, lustful one, covetous one (who art an Idolater) and backbiter, and whoremonger, and gamer, and sporter, and pro<g ref="char:EOLhyphen"/>phane one, who walkest on in lasciviousness, and excess of the Creatures, in revellings, Banquetings, and abominable Idolatries, and whoever thou be that acts any manner of unrighteousness whatsoever, it is sin: and it is of the
+<pb n="2" facs="tcp:193511:2"/> Devil; but the light that lighteth every man that cometh into the World, that is the Son of God, who is made manifest for this very end that he might destroy the works of the Devil, 1 <hi>John</hi> 3.8. and he (mark) the Son of God, hath given thee a measure of his light, and that is the measure of his light in thee, which lets thee see that thou shouldst not act any of these abominations be<g ref="char:EOLhyphen"/>fore-mentioned, but it oft appears in thee to convince thee of thy evil deeds, and reproves thee, and Judgeth thee for thy wickedness; so here thou hast learned thy Condemnation, which is the light, which makes manifest unto thee thy abominations.</p>
+               <p>And thou who makes a Profession of the Saints words, but art found to be out of their life, and in thy dark carnal mind and imaginations runs into their words (the Scriptures) and calls them the Word of God, and thy rule, and the way to know God (and yet thou livest contrary to the Scriptures, and art out of the knowledge of God, whom to know is life eternal) Mark, the light wherewith thou art inlightned withal, it comes from Christ (who lighteth every man that cometh into the World, and his Name is called the Word of God, <hi>Rev.</hi> 19.13. and he is the way to God, and no man knoweth the Father save the Son, and he to whomsoever the Son will reveal him) <hi>Matth.</hi> 11.27. and this light which comes from the Son of God, often times appears in thee, and shews thee that thou art out of the Saints life (though thou profess their Words) and the light lets thee see that thou art a thief and a robber, and art climbing up another way (in thy imagina<g ref="char:EOLhyphen"/>tions) then by the door, (<hi>John</hi> 10 1.) which is Christ (from whence the light doth come) and this light in thee which makes manifest to thee thy condition, it oftentimes confounds thee and thy imaginations (which thou hast raised out of thy dark mind, concerning the Scriptures, which were given forth in the true light) and the light oftentimes convinceth, reproveth and Judgeth thee of and for thy hypocrisy, and dissimulation, and feigned love, and humility, and will-worship, and lets thee see that thy worship is not that worship which the Lord requireth, for that is in the Spirit and in the truth which God requireth, <hi>John</hi> 4.22,23,24. and thou being out of the light (not being guided by it) art out of the Spirit, for the Spirit is light, and the light is the truth, and so out of the true worship in the false, wor<g ref="char:EOLhyphen"/>shipping thou knows not what; so here with the true light thou art con<g ref="char:EOLhyphen"/>demned, and so hast learned but thy Condemnation.</p>
+               <p>Therefore all people, both young and old, high and low, rich and poor, bond and free, <note place="margin">
+                     <hi>Eph.</hi> 5.13. 1 <hi>Cor.</hi> 12.7.</note> who yet lives in any of these evil deeds beforementioned, mind that which makes manifest your evil deeds unto you, which is the mea<g ref="char:EOLhyphen"/>sure of the pure God, which he hath given you to profit withal, and this measure in you convinceth you of sin, and reproves you for it; now mind to stand in that which doth convince, for that is the power, and as you stand and believe in that which doth convince you, it will lead you into true repentance never to be repented of, 2 <hi>Cor.</hi> 7.10. for it will bring you to re<g ref="char:EOLhyphen"/>pent of, and to forsake all your evil deeds and hard speeches (<hi>Jud.</hi> 15.) which you will see in the light (which never consented unto sin) that you have acted and spoken against the living God, so believe in the light which shews you sin and evil; <note place="margin">
+                     <hi>John</hi> 1.12.</note> and wait in the light as it ariseth and appears in you, to shew you your estates and conditions; now if you believe in the light, and wait in it, <note place="margin">
+                     <hi>Rom.</hi> 5.12</note> you will come to receive power from Christ (from whence the light doth come) to overcome evil, and to withstand the tempter, when he appears
+<pb n="3" facs="tcp:193511:2"/> to tempt you to evil, and the light (believing in it) will preserve you out of the evil, and lead you out of the death and loss that ye are in, unto Christ the life and Saviour of the soul.</p>
+               <p>But if you hate the Light (which shews you sin and evil) you hate Christ, for I am the light saith Christ, <hi>John</hi> 8.12. and if you hate the light, you hate the way to the Father, for I am the way to the Father saith Christ who is the light, <hi>John</hi> 14.6. and if you hate the light, you hate the truth, and you hate the life, for I am the truth and the life saith Christ the true light, who lighteth every man that cometh into the World, <hi>John</hi> 1.9. and 12 46. and if you hate the light, you hate the Covenant of God, for I will give him for a Covenant to the people, and for a light to the Gentiles saith God, <hi>Isay</hi> 42.6. and 49.6. and if you hate the light you hate the power, for all power is given unto me both in Heaven and in earth, saith Christ the light, <hi>Matth.</hi> 28.18. and if you hate the light you hate the Word of God, and so you hate God and Christ (who are one, <hi>Iohn</hi> 10.30.) Mark, for in the be<g ref="char:EOLhyphen"/>ginning was the Word, and the Word was with God, and the Word was God, all things were made by it, and without it nothing was made that was made, in it was life, (Mark, in the Word was life,) and the life (of the Word) was the light of men; and <hi>Iohn</hi> a man sent of God bare witness of the light, that all men through him might believe (Mark) through him, who lighteth every man that cometh into the world, <hi>Iohn</hi> 1.1,2,3,4,6,7,8,9. and God is light, 1 <hi>Iohn</hi> 1.5. and God and Christ are one, <hi>Iohn</hi> 10.30. 1 <hi>Iohn</hi> 5.7.</p>
+               <p>So you that be turned from the light (which shews you sin and evil, mark what you are turned from) you are turned from the way, and from the truth, and from the life, and from the Covenant of God, and from the Power of God, and from the Word of God, and so from God and Christ, from whence the light doth come, and into the darkness you are turned and gone, and the prince of darkness ruleth in you (<hi>Eph.</hi> 2.2. that so you cannot find any power over your own perverse wills, nor over your lusts, nor over any sin there, being gone from the light in your own particulars, in which light if you believed and waited in it, you would receive power to overcome sin, but you not believing in the light, you believe in him who leads you from the power of God into sin, and there he perswades you that you must live (in sin) so long as you live upon the earth, &amp; you have believed &amp; received this doctrine of him, and you teach it to others, and so are become the Devils ministers, and so you deny the end for which the Son of God was made manifest, which was to destroy the works of the Devil, and to take away sin, 1 <hi>Iohn</hi> 3.8. <hi>Matth.</hi> 1.21. and yet many of you feed your selves with hopes of life and Salvation, but your hopes are vain and will perish; be not deceived, God will not be mocked, for such as you sow, such shall you reap, <hi>Gal.</hi> 6.7,8. Ye that live after the flesh fulfilling the lusts thereof, you shall surely dye (if you repent not speedily) <hi>Rom.</hi> 8.13. and you that sow to the flesh, shall of the flesh reap corruption; The day of the Lord hasteth greatly wherein you must give an account unto him, who will Judge you righteously, and reward you according to your deeds done in the body; and all you who have been slothful, and have hid that in the earth which the Lord gave you to profit withal, you will be turned into utter darkness, <hi>Matth.</hi> 25.30. <hi>John</hi> 12.35. Therefore whiles you have the light, believe, and walk in it, least thick darkness comes upon you, even such darkness as may be felt, the day of your visitation prize, least the things that belongs to your peace be
+<pb n="4" facs="tcp:193511:3"/> wholly hid from your eyes; Consider there is a time when the Candle is lighted, and when you may see (if you search with it) what is in the house; but mark, this time will not alwayes continue with the wicked, for the candle of the wicked shall be put out, <hi>Prov.</hi> 24.20. yea, the Spirit of the Lord shall not alwayes strive with man, <hi>Gen.</hi> 6.3. Therefore cease from your dark imaginations, which several of you have got into, for who<g ref="char:EOLhyphen"/>soever followeth the imaginations and thoughts of his own heart (which all who believe not in the light do) they run on in darkness and knows not whe<g ref="char:EOLhyphen"/>ther they go, <note place="margin">
+                     <hi>Isai.</hi> 5.20.</note> and such are under the wo, putting darkness for light and light for darkness, calling the Spirit of truth the spirit of errour, and the spirit of errour the spirit of truth, as all the world do, who lyeth in wickednesse and hateth the true light which lighteth every man that cometh into the world, which light reproveth you for your wickedness, and this light you call a spi<g ref="char:EOLhyphen"/>rit of delusion and errour, and you say, that those who are guided by it, are deluded and led into errour; Oh! take heed of blasphemy against the pure God, who is light, mark, the spirit of errour, what it is, and wha it leads into, it is that which abode not in the truth (and the light is the truth) and it is a murderer, and was so from the beginning, and they who walk not in the true light, they walk and are guided by this spirit, and some by it are led to murther, some to steal, some to be drunk, to swear, to lye, to cheat and cozen one another, to fight, to game, <note place="margin">
+                     <hi>Eph.</hi> 4 29. and 5.5. <hi>Gal.</hi> 5.19,20.</note> and some it leads into vain laughter, foolish jeasting, corrupt communication, cursed speaking, wantonness, lust, whoredom, fornication, and into covetousness (which is Idolatry) into pride, variance, strife, railing, back-biting, envy, wrath and malice, false ac<g ref="char:EOLhyphen"/>cusing the innocent, and into all manner of ungodliness, into fained love, self-seeking, dissimulation, hypocrisy and fained flattery, and to hate the ve<g ref="char:EOLhyphen"/>ry appearance of truth; Now examine with that which reproves you for sin in secret, and it will let you see that you bring forth many of these cursed fruits before mentioned, and so are deluded and guided by the spirit of errour; now the true light (which lighteth every man that cometh into the world comes from the Spirit of truth, and that is the truth, and it wit<g ref="char:EOLhyphen"/>nesseth against all these evil deeds before mentioned (which are out of the truth) and they who believe in the light (which makes manifest sin and e<g ref="char:EOLhyphen"/>vil) and wait in it, <note place="margin">
+                     <hi>John</hi> 1.12.</note> they receive power from him from whence the light came, to abstain from evil, and to overcome sin and evil, and that spirit which tempts the creature to evil is the spirit of errour (and this I witness;) So we who believe in the true light, which is the manifestation of the Spirit of truth, which is given to every man to profit withal, 1 <hi>Cor.</hi> 12.7. we by it are led out of errour and delusion, into the perfect truth of God, and to act those things which are well-pleasing in his sight, <note place="margin">
+                     <hi>Matth.</hi> 11.29. <hi>John</hi> 3.21</note> they being learned and wrought in the light which comes from the Son, in whom the Father is well pleased; and this true light in us is our guide and teacher, and this brings us who wait in it to understand the Scriptures of truth, which was given forth from the Spirit of truth, and it brings us into that which the Scriptures speaks of, into the life &amp; power of God, and to witness that which the world talks of, for they will talk of faith in Christ Jesus, though they witness not what they speak; but we who believe in the light, are made (by the power of God) children of the light, and we wit<g ref="char:EOLhyphen"/>ness faith in Christ, which faith purifies our hearts, and gives us victory over the world, <hi>Acts</hi> 15.9. 1 <hi>John</hi> 5.4. and the light leads us into
+<pb n="5" facs="tcp:193511:3"/> meekness, into soberness and love unfained, into holiness and uprightness into sound and pure Judgment, into mercy, into patience, when we are revi<g ref="char:EOLhyphen"/>led and persecuted (and at all times) into long suffering and truth in the in<g ref="char:EOLhyphen"/>ward parts, to do unto all men as we would they should do unto us; yea, it leads us who abide in it, into all truth, <hi>John</hi> 16.13 and this is not of our selves, for it is the free gift of God, who freely gave his Son for a Covenant of light, which lighteth every man that cometh into the world; and we who have re<g ref="char:EOLhyphen"/>ceived the gift of God (the light) by the gift we are brought to bring forth these fruits, which are contrary to those, which the spirit of errour leads the children of disobedience to bring forth; so although we the children of light are accounted to be in delusion and errour, yet it is but by you who bring forth the cursed fruits, which the spirit of errour leads you to bring forth; <note place="margin">
+                     <hi>Gal.</hi> 5.22,23.</note> so in the light, life and power of God we stand over all false accusations and re<g ref="char:EOLhyphen"/>proaches, and persecutions, and in the patience of Gods Lamb we bear them all, and our love goes forth to your Souls, who wilfully oppose your selves, and we declare unto you that the long sufferings of the Lord towards you, is to draw you to repentance, <hi>Rom.</hi> 2.4. and I have directed you to that which will show you, what you ought to repent of.</p>
+               <p>Therefore consider your wayes speedily all you that forget God, least he tear you in pieces, and there be none to deliver you, <hi>Psal.</hi> 50.22. for verily, this I declare unto you in the presence of the Lord, that if you go on and continue in stubborness and rebellion against the pure God, and despise his Love, and reject his Councel, and still refuse to hearken to the light of his Son in your Consciences (which reproves you for sin, and is freely given to you, to lead you out of sin unto God, if you wilfully did not resist it) Mark, when the measure of your iniquity is filled up, then will he arise upon you at unawares in his fury and wrath and indignation, and his eye shall not a<gap reason="illegible" resp="#oxf" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> all pitty you, <note place="margin">
+                     <hi>Matth.</hi> 24.50,51.</note> but he will bring his plagues and righteous Judgments upon you, which shall consume you both root and branch, if you will not be gathered in the day of his long patience and forbearance, which is the day of your visitation, wherein you may come to know the things belonging to your peace, if you do not wilfully resist the power that is offered and committed unto you. But if you resist the power, then the Lords righteous Judgments will assured<g ref="char:EOLhyphen"/>ly come upon you, and you will receive to your selves condemnation, and if you continue in your wickedness until the day of your visitation be past, then shall the light in all your Consciences (which hath oftentimes shewed unto you your evil deed<gap reason="illegible" resp="#oxf" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>) arise and witness to the Judgments of God that they are Just, <note place="margin">
+                     <hi>Ezek.</hi> 2.7.</note> so whether you will hear or forbear, Remember you are warned in your life time,</p>
+               <closer>
+                  <signed>By a Friend to your Souls, and a lover of the Creation of God. <hi>GEORGE FOX, the younger.</hi>
+                  </signed>
+               </closer>
+            </div>
+            <div type="part">
+               <head>A few Queries to such professors as stumbles at the Light, the Word, the Kingdom and Spirit of God within, and tell people that none can be free from sin in this life, and yet say that they own the Scriptures.</head>
+               <p>
+                  <label>1. <hi>Query</hi>
+                  </label> ARE not all by nature darkness, and doth not the light shine in darkness, yea or nay?</p>
+               <p>
+                  <label>2. <hi>Qu.</hi>
+                  </label> Can any come to see themselves to be darkness, but with the light which shineth in the darkness, yea or nay?</p>
+               <p>
+                  <label>3. <hi>Qu.</hi>
+                  </label> Is there any way to come out of darkness and death, and to receive
+<pb n="6" facs="tcp:193511:4"/> life, and to be made children of the light, but by believing in and followin of Jesus Christ the true Light (which lighteth every man that cometh into the world) yea or nay?</p>
+               <p>
+                  <label>4. <hi>Qu.</hi>
+                  </label> Must not all be turned from darkness to light, and from Satans power to the power of God, before they can receive remission of sins, and an inheri<g ref="char:EOLhyphen"/>tance among them that are sanctified, yea or nay?</p>
+               <p>
+                  <label>5. <hi>Qu.</hi>
+                  </label> Can any come into the true faith (which purifies the heart, and gives victory over the world, without which none can please God) but by hearing the Word of God, yea or nay?</p>
+               <p>
+                  <label>6. <hi>Qu.</hi>
+                  </label> And is not Christ the light, the Word of God, and is not Christ the light, the Author and finisher of the true Faith (which saves and sanctifies) yea or nay?</p>
+               <p>
+                  <label>7. <hi>Qu.</hi>
+                  </label> And is not the Word nigh in the mouth and in the heart, that men may obey it and do it, and is not Christ the Light, the Word, the Prophet, which all that hears him not are to be cut off, yea or nay?</p>
+               <p>
+                  <label>8. <hi>Qu.</hi>
+                  </label> And is not Christ the Word which discerns and reveals the thoughts and intents of the heart, and is not he the ingrafted Word which is able to save the Soul, and is not he the grace of God which bringeth Salvation and is suffi<g ref="char:EOLhyphen"/>cient (which hath appeared unto all men) and is not he the Word of Gods grace (which is able to build up and keep from falling) which people are to be commended unto, yea or nay?</p>
+               <p>
+                  <label>9. <hi>Qu.</hi>
+                  </label> And is not God light, and is not the shining of him in the hearts of people, which gives them the knowledge of himself in the face of Jesus Christ, yea or nay?</p>
+               <p>
+                  <label>10. <hi>Qu.</hi>
+                  </label> And is not Christ the Light, the hope which purifies as God is pure (which anchors and stayes the Soul) to be known within, and are not people tossed like a ship (in a tempest) without an Anchor, till Christ the hope be felt within, to stay and anchor them, and is not Christ within the hope, a My<g ref="char:EOLhyphen"/>stery, which hath been hid from ages and generations, and are not all they in the reprobate state, who knows not Christ within them, yea or nay?</p>
+               <p>
+                  <label>11. <hi>Q.</hi>
+                  </label> And is not Gods Kingdom Light, and is it not like a little leaven that is hid in meal, and as a grain of mustard seed that is sowen in the earth, and like a pearl hid in the field, or like good seed sowen in the field, both on stony, thorny, high-way, and good ground, and is not the world the field, where the seed of the Kingdom is sowen, and is not the world in mans heart; so, is not Gods Kingdom within men, yea or nay?</p>
+               <p>
+                  <label>12. <hi>Qu.</hi>
+                  </label> And is not the manifestation of the Spirit given to every man to pro<g ref="char:EOLhyphen"/>fit withal, and doth any worship the Father of truth aright, but those that worship him in the Spirit and in the Truth, and is not the light the truth, yea or nay?</p>
+               <p>
+                  <label>13 <hi>Qu.</hi>
+                  </label> And is not Christ the light, that Word which reconciles to God, and is it not he that must open the understandings of men, before they can un<g ref="char:EOLhyphen"/>derstand the Scriptures, and are not people in errour, and in jangling and strife about the Scriptures, till Christ the Light, the Spirit of truth, the power of God (from whence Scriptures were spoken) be known and owned to guide and lead them, yea or nay?</p>
+               <p>
+                  <label>14. <hi>Qu.</hi>
+                  </label> And is not this the cause of so many Sects and Opinions, and Devi<g ref="char:EOLhyphen"/>sions as are, and of such striving as is about Scriptures and Religion, because people know not or own not the Spirit of truth (from whence Scriptures were spoken forth) to lead and guide them, and is it not like that people should
+<pb n="7" facs="tcp:193511:4"/> run into sects, and opinions, and devisions, and strife, if they know not, or own not the Spirit of truth to guide and lead them; and if the Spirit of truth were known and owned to guide and lead them, would it not lead and guide them out of sects and opinions, and devisions and strife, and would it not bring people to be of one heart, and of one mind, and into unity with God, and one with another, and with the Scriptures, yea or nay?</p>
+               <p>
+                  <label>15. <hi>Qu.</hi>
+                  </label> And doth not Christ the light, the Spirit of truth, for sin, con<g ref="char:EOLhyphen"/>demn sin in the flesh, and must not that be owned which makes manifest, reproves and condemns sin in the flesh, before the ministration of life and peace can be witnessed, yea of nay?</p>
+               <p>
+                  <label>16. <hi>Qu.</hi>
+                  </label> Is not the unity of the Spirit the bond of peace, and must not peo<g ref="char:EOLhyphen"/>ple come into unity with the Spirit, before they can come into true peace, and doth not the Spirit of truth reprove men for sin who live in it; so must not people come out of sin, before they can come into unity with the Spirit, and so into true peace, or hath the Spirit any unity with sin, or is there any true peace to the wicked, who live in sin, yea or nay?</p>
+               <p>
+                  <label>17. <hi>Qu.</hi>
+                  </label> And is not Christ the light, the Word, the Rock of offence, and the stone of stumbling unto the disobedient, in whom the prince of the power of the air ruleth; but is he not elect and pretious to them that believe and obey him, and is it not he that ruleth in them, and leads and guides them in the way of peace, yea or nay?</p>
+               <p>
+                  <label>18 <hi>Qu.</hi>
+                  </label> Doth not as many as believe in the light receive power to become the sons of God, and are not those the sons of God, who are led by the Spirit of truth, and are not those that doth not believe in Christ the light, nor are gui<g ref="char:EOLhyphen"/>ded by the Spirit, bastards and not sons, and are they not condemned already, who doth not believe, and is not the light their condemnation, yea or nay?</p>
+               <p>
+                  <label>19. <hi>Qu.</hi>
+                  </label> And shall not darkness (yea, great darkness) come upon them, who doth not believe and walk in the light, and shall not they stumble and fall, and be broken, yea or nay?</p>
+               <p>
+                  <label>20. <hi>Qu</hi>
+                  </label> And shall not they who believe and walk in the light, be made children of the light, and be kept from stumbling and falling, and shall not they have fellowship with the Father and the Son (from whence the light comes) and one with another, and doth not the blood of Christ cleanse them from all sin, yea or nay?</p>
+               <p>
+                  <label>21. <hi>Qu.</hi>
+                  </label> Can any have fellowship with the Father and the Son and the Saints in light, but those that walk in (and are guided and led by) the light of Christ Jesus, which he hath enlightned them withal, yea or nay?</p>
+               <p>
+                  <label>22. <hi>Qu.</hi>
+                  </label> Can any deny themselves before they see themselves, and can any man see himself but with the light which Christ hath enlightned him withal, which makes manifest self, and can any be Christs disciple, but he that denies himself, and take up the cross, and come after Christ the true light; and are not all they thieves and robbers which comes before Christ the light, and are not such enemies to the Cross of Christ, and is not the Cross of Christ the power of God, and is not the Cross (and the preaching of it) foolishnes<gap reason="illegible" resp="#oxf" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> to the wise of this world, and is it not a stumbling block to such as in words profess they know God, but in works deny him, yea or nay?</p>
+               <p>
+                  <label>23. <hi>Qu.</hi>
+                  </label> And they that commit sin, and cannot cease from sin, are not they of the Devil, and are not they the servants of sin, and so free from righteous<g ref="char:EOLhyphen"/>ness, and have they not eyes full of adultery who cannot cease from sin, are they not adulterated and whored from the life of God, and though they pro<g ref="char:EOLhyphen"/>mise
+<pb n="8" facs="tcp:193511:5"/> liberty to themselves and others, yet are not they servants to corruption, and do not they live in the flesh, and are they not dead whiles they live, and so out of the true faith, and can such please God, yea or nay?</p>
+               <p>
+                  <label>24. <hi>Qu.</hi>
+                  </label> And they that believe in and obey Christ Jesus the true light, doth not their faith stand in the power of God, and doth it not purifie their hearts, and give them victory over the world, and doth not they who witness (in the life) the manifestation of the Son of God, also witness that he destroyes the works of the Devil, and takes away their sin, and makes an end of transgression, and changes their nature which was subject to sin, and makes them partakers of his divine Nature, and throughly purges and sanctifies them with his living truth, and doth not that make them free from sin, and so makes them servants of righ<g ref="char:EOLhyphen"/>teousness, and doth not that make vessels of honour fitted for the Masters use, and are not such dead unto sin and alive unto God, and can such live any longer in sin, and having mortified the deeds of the body through the Spirit, shall not they live (but not to themselves, but to God) and are not these Christs, and have they not crucified the flesh with the affections &amp; lusts thereof, yea or nay?</p>
+               <p>
+                  <label>25 <hi>Qu.</hi>
+                  </label> Shall any man see the Lord without holiness, and ought any <gap reason="illegible" resp="#oxf" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o name the Name of Christ, but those that depart from iniquity, and is that the faith of Gods Elect which doth not purifie the heart, nor give victory over the world (but is without the works) or is not this dead faith, and but the faith of De<g ref="char:EOLhyphen"/>vils, and shall any be saved or justified by this faith, yea or nay?</p>
+               <p>Consider of these things ye professors who stumble at the light, and tells peo<g ref="char:EOLhyphen"/>ple that none shall be free from sin in this life.</p>
+               <p>
+                  <label>26. <hi>Qu.</hi>
+                  </label> And when is the time, and where is the place, and what is the name of it (if not in this life) that men shall be made free from sin, (answer plain<g ref="char:EOLhyphen"/>ly, that I may see how much ye differ from the Papist in this particular) or do ye believe that corruption (and that which is imperfect) shall enter into Hea<g ref="char:EOLhyphen"/>ven, and inherit incorruption, yea or nay?</p>
+               <p>Answer these Queries in plainness according to the Scriptures (if ye be a<g ref="char:EOLhyphen"/>ble) if not, then submit unto the true light, which will let you see your thoughts, your darkness, your unstableness, and ignorance of the Scriptures, and repent and believe, and wait in the true light, that you may come out of your thoughts and darkness, and unstableness and ignorance, into that which the Scriptures declares of, to feel Christ the Saviour (from whence the light doth come) to redeem and save ye from sin, and to keep ye out of your own thoughts, inventions and imaginations, that so your minds may come to be stayed and setled in the power of the Lord, which moves against sin.</p>
+               <closer>
+                  <signed>By one who witnesseth God, Christ, the Light, the Word, the Spirit of truth (and these are one) and the Kingdom of God within me, and so am come to the thing that the Scriptures testifie of, which was before Scripture was, in whom the Scriptures ends, and the Tabernacle of God is witnessed with men, and his presence is felt, which fil<g ref="char:EOLhyphen"/>leth Heaven and earth, and the Heaven of Heavens cannot contain him, glory to him in the Highest. <hi>GEORGE FOX, the younger in the truth.</hi>
+                  </signed>
+               </closer>
+            </div>
+            <trailer>THE END.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>London, Printed for <hi>Thomas Simmons,</hi> at the Bull and Mouth near Aldersgate, 1659.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
